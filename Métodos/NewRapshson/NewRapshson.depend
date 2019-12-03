@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568832545 source:c:\users\cc09904086982\downloads\newrapshson\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

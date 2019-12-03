@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568832196 source:c:\users\cc09904086982\downloads\metodoiterativolinear\metodoiterativolinear\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1569878306 source:c:\users\kaio garcia\downloads\computacao_simbolica-master\métodos\metodoiterativolinear\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

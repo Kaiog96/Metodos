@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569842268 source:c:\users\kaio garcia\downloads\computacao_simbolica-master\métodos\falsaposicao\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
